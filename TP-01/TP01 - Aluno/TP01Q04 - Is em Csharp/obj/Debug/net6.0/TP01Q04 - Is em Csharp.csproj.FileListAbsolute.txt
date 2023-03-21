@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\bin\Debug\net6.0\TP01Q04 - Is em Csharp.exe
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\bin\Debug\net6.0\TP01Q04 - Is em Csharp.deps.json
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\bin\Debug\net6.0\TP01Q04 - Is em Csharp.runtimeconfig.json
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\bin\Debug\net6.0\TP01Q04 - Is em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\bin\Debug\net6.0\TP01Q04 - Is em Csharp.pdb
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\refint\TP01Q04 - Is em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.pdb
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\TP01Q04 - Is em Csharp.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q04 - Is em Csharp\obj\Debug\net6.0\ref\TP01Q04 - Is em Csharp.dll

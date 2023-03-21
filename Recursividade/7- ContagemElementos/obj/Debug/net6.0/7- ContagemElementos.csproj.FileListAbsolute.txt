@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\bin\Debug\net6.0\7- ContagemElementos.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\bin\Debug\net6.0\7- ContagemElementos.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\bin\Debug\net6.0\7- ContagemElementos.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\bin\Debug\net6.0\7- ContagemElementos.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\bin\Debug\net6.0\7- ContagemElementos.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\refint\7- ContagemElementos.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\7- ContagemElementos.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\7- ContagemElementos\obj\Debug\net6.0\ref\7- ContagemElementos.dll

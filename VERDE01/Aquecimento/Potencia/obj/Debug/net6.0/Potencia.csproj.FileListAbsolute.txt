@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\bin\Debug\net6.0\Potencia.exe
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\bin\Debug\net6.0\Potencia.deps.json
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\bin\Debug\net6.0\Potencia.runtimeconfig.json
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\bin\Debug\net6.0\Potencia.dll
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\bin\Debug\net6.0\Potencia.pdb
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.dll
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\refint\Potencia.dll
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.pdb
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\Potencia.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Nova pasta\Aquecimento\Potencia\obj\Debug\net6.0\ref\Potencia.dll

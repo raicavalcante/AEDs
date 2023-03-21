@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\bin\Debug\net6.0\Elevador.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\bin\Debug\net6.0\Elevador.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\bin\Debug\net6.0\Elevador.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\bin\Debug\net6.0\Elevador.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\bin\Debug\net6.0\Elevador.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\refint\Elevador.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\Elevador.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Prova Pratica\Elevador\obj\Debug\net6.0\ref\Elevador.dll

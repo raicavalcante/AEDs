@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\bin\Debug\net6.0\4- Potencia.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\bin\Debug\net6.0\4- Potencia.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\bin\Debug\net6.0\4- Potencia.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\bin\Debug\net6.0\4- Potencia.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\bin\Debug\net6.0\4- Potencia.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\refint\4- Potencia.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\4- Potencia.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\4- Potencia\obj\Debug\net6.0\ref\4- Potencia.dll

@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\bin\Debug\net6.0\5- InverteString.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\bin\Debug\net6.0\5- InverteString.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\bin\Debug\net6.0\5- InverteString.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\bin\Debug\net6.0\5- InverteString.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\bin\Debug\net6.0\5- InverteString.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\refint\5- InverteString.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\5- InverteString.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Ex.Recursividade\5- InverteString\obj\Debug\net6.0\ref\5- InverteString.dll

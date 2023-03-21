@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\bin\Debug\net6.0\TP01Q02 - Ciframento em Csharp.exe
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\bin\Debug\net6.0\TP01Q02 - Ciframento em Csharp.deps.json
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\bin\Debug\net6.0\TP01Q02 - Ciframento em Csharp.runtimeconfig.json
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\bin\Debug\net6.0\TP01Q02 - Ciframento em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\bin\Debug\net6.0\TP01Q02 - Ciframento em Csharp.pdb
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\refint\TP01Q02 - Ciframento em Csharp.dll
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.pdb
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\TP01Q02 - Ciframento em Csharp.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\TP-01\TP01 - Aluno\TP01Q02 - Ciframento em Csharp\obj\Debug\net6.0\ref\TP01Q02 - Ciframento em Csharp.dll
