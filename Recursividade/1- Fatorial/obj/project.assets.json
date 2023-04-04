@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\1- Fatorial\\1- Fatorial.csproj",
+      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\1- Fatorial\\1- Fatorial.csproj",
       "projectName": "1- Fatorial",
-      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\1- Fatorial\\1- Fatorial.csproj",
+      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\1- Fatorial\\1- Fatorial.csproj",
       "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\1- Fatorial\\obj\\",
+      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\1- Fatorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"

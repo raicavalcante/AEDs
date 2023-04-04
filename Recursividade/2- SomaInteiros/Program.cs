@@ -4,21 +4,18 @@ class Program{
         // Entrada de dados
         int entrada;
         entrada = int.Parse(Console.ReadLine());
-        // Declarando variável para condição de parada
-        int parada = entrada - 1;
         // Imprimindo resultado
-        Console.WriteLine(somaRecursiva(entrada,parada));
+        Console.WriteLine(somaRecursiva(entrada));
     }
     // Criando Função Recursiva
-    static int somaRecursiva(int entrada,int parada){
+    static int somaRecursiva(int entrada){
         // Condição de parada da recursividade
-        if(parada == 0){
+        if(entrada == 0){
             return entrada;
         }
         // Recursividade
         else{
-            entrada += parada;
-            return somaRecursiva(entrada,parada-1);
+            return entrada + somaRecursiva(entrada-1);
         }
     }
 }

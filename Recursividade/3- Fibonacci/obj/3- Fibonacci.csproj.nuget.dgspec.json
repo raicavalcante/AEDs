@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\3- Fibonacci\\3- Fibonacci.csproj": {}
+    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\3- Fibonacci\\3- Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\3- Fibonacci\\3- Fibonacci.csproj": {
+    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\3- Fibonacci\\3- Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\3- Fibonacci\\3- Fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\3- Fibonacci\\3- Fibonacci.csproj",
         "projectName": "3- Fibonacci",
-        "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\3- Fibonacci\\3- Fibonacci.csproj",
+        "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\3- Fibonacci\\3- Fibonacci.csproj",
         "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\3- Fibonacci\\obj\\",
+        "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\3- Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"

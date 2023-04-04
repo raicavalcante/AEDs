@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj": {}
+    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj": {
+    "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj",
+        "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj",
         "projectName": "2- SomaInteiros",
-        "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj",
+        "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\2- SomaInteiros\\2- SomaInteiros.csproj",
         "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\2- SomaInteiros\\obj\\",
+        "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\2- SomaInteiros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"
