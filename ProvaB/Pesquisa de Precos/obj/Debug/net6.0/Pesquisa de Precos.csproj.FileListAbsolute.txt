@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\bin\Debug\net6.0\Pesquisa de Precos.exe
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\bin\Debug\net6.0\Pesquisa de Precos.deps.json
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\bin\Debug\net6.0\Pesquisa de Precos.runtimeconfig.json
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\bin\Debug\net6.0\Pesquisa de Precos.dll
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\bin\Debug\net6.0\Pesquisa de Precos.pdb
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.dll
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\refint\Pesquisa de Precos.dll
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.pdb
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\Pesquisa de Precos.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\ProvaB\Pesquisa de Precos\obj\Debug\net6.0\ref\Pesquisa de Precos.dll

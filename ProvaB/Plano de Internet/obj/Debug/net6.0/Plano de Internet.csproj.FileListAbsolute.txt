@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\bin\Debug\net6.0\Plano de Internet.exe
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\bin\Debug\net6.0\Plano de Internet.deps.json
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\bin\Debug\net6.0\Plano de Internet.runtimeconfig.json
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\bin\Debug\net6.0\Plano de Internet.dll
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\bin\Debug\net6.0\Plano de Internet.pdb
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.dll
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\refint\Plano de Internet.dll
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.pdb
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\Plano de Internet.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\ProvaB\Plano de Internet\obj\Debug\net6.0\ref\Plano de Internet.dll
