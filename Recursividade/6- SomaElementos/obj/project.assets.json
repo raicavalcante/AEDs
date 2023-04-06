@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\6- SomaElementos\\6- SomaElementos.csproj",
+      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\6- SomaElementos\\6- SomaElementos.csproj",
       "projectName": "6- SomaElementos",
-      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\6- SomaElementos\\6- SomaElementos.csproj",
+      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\6- SomaElementos\\6- SomaElementos.csproj",
       "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\6- SomaElementos\\obj\\",
+      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\6- SomaElementos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"

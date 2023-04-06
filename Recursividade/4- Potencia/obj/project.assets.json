@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\4- Potencia\\4- Potencia.csproj",
+      "projectUniqueName": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\4- Potencia\\4- Potencia.csproj",
       "projectName": "4- Potencia",
-      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\4- Potencia\\4- Potencia.csproj",
+      "projectPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\4- Potencia\\4- Potencia.csproj",
       "packagesPath": "C:\\Users\\MARCE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Ex.Recursividade\\4- Potencia\\obj\\",
+      "outputPath": "C:\\Users\\MARCE\\Desktop\\Faculdade\\AEDs\\Recursividade\\4- Potencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MARCE\\AppData\\Roaming\\NuGet\\NuGet.Config"
