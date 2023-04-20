@@ -1,0 +1,30 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\bin\Debug\net6.0\Exs.Collections.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\bin\Debug\net6.0\Exs.Collections.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\bin\Debug\net6.0\Exs.Collections.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\bin\Debug\net6.0\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\bin\Debug\net6.0\Exs.Collections.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\refint\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\Exs.Collections.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\obj\Debug\net6.0\ref\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\bin\Debug\net6.0\Exs.Collections.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\bin\Debug\net6.0\Exs.Collections.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\bin\Debug\net6.0\Exs.Collections.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\bin\Debug\net6.0\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\bin\Debug\net6.0\Exs.Collections.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\refint\Exs.Collections.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\Exs.Collections.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Roteiro - ArrayList\obj\Debug\net6.0\ref\Exs.Collections.dll
