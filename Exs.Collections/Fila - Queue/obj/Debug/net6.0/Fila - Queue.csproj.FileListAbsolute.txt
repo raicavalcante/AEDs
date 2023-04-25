@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\bin\Debug\net6.0\Fila - Queue.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\bin\Debug\net6.0\Fila - Queue.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\bin\Debug\net6.0\Fila - Queue.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\bin\Debug\net6.0\Fila - Queue.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\bin\Debug\net6.0\Fila - Queue.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\refint\Fila - Queue.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\Fila - Queue.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\Exs.Collections\Fila - Queue\obj\Debug\net6.0\ref\Fila - Queue.dll
