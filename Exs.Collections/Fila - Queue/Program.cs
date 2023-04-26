@@ -76,12 +76,12 @@ class Program{
         Q = new Queue();
         int num = 5, num2 = 13;
         Q.Enqueue(5); Q.Enqueue(13); Q.Enqueue(19); Q.Enqueue(31); Q.Enqueue(3); Q.Enqueue(7); Q.Enqueue(11); Q.Enqueue(5); Q.Enqueue(57); Q.Enqueue(13); Q.Enqueue(5);
-        ApagaNumInQueue(num,Q);
-        ApagaNumInQueue(num2,Q);
+        ApagaNumInQueue(num,ref Q);
+        ApagaNumInQueue(num2,ref Q);
         Console.Write("Queue: ");
-        for (int i = 0; i < 11; i++)
+        foreach (var item in Q)
         {
-            Console.Write(Q.Dequeue() + " ");   
+            Console.Write(item + " ");
         }
         Console.WriteLine();
 
@@ -180,7 +180,7 @@ class Program{
     public static void LimpaFila(Queue Q){
         Q.Clear();
     }
-    public static void ApagaNumInQueue(int num, Queue Q){
+    public static void ApagaNumInQueue(int num, ref Queue Q){
         Queue temp = new Queue();
         foreach (var item in Q)
         {
@@ -192,7 +192,7 @@ class Program{
         Q = temp;
     }
     // 14 – Crie uma função para inverter os dados da coleção recebida como parâmetro. Obs1: use qualquer outra estrutura que julgar necessária. Obs2: não utilize o método reverse da classe ArrayList.
-    public static void InverteFila(Queue collection){
+    public static void InverteFila(ref Queue collection){
         int[] elementos = collection.Cast<int>().ToArray();
         Array.Reverse(elementos);
         foreach (int numero in elementos) {
@@ -200,7 +200,7 @@ class Program{
         }
     }
     // 15 – Crie uma função que receba a coleção como parâmetro e retorne a soma de seus elementos. Obs: considere que todos seus dados são do tipo int.
-    public static int SomaElementos(Queue collection){
+    public static int SomaElementos(ref Queue collection){
         int soma = 0;
         foreach(int num in collection){
             soma += num;
@@ -208,7 +208,7 @@ class Program{
         return soma;
     }
     // 16 – Crie uma função que calcule o número de elementos positivos de uma coleção passada como parâmetro.
-    public static int CalculaPositivos(Queue collection){
+    public static int CalculaPositivos(ref Queue collection){
         int positivos = 0;
         foreach(int numero in collection){
             Console.WriteLine(numero);
@@ -219,7 +219,7 @@ class Program{
         return positivos;
     }
     // 17 – Crie uma função que calcule o número de ocorrências em uma coleção de um elemento passado como parâmetro.
-    public static int ContaOcorrencias(Queue collection, int busca){
+    public static int ContaOcorrencias(ref Queue collection, int busca){
         int ocorrências = 0;
         foreach(int num in collection){
             if((int)collection.Dequeue() == busca){

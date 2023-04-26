@@ -5,12 +5,12 @@ class Program{
         // 1 - Crie um ArrayList e adicione 10 valores inteiros digitados pelo usuário. Ao final, imprima todos os elementos.
         int respInt;
         Stack S = new Stack();
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < 10; i++)
         {
             respInt = int.Parse(Console.ReadLine());
             S.Push(respInt);
         }
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < 10; i++)
         {
             Console.Write(S.Pop() + " ");
         }Console.WriteLine();
@@ -80,12 +80,12 @@ class Program{
         S = new Stack();
         int num = 5, num2 = 13;
         S.Push(5); S.Push(13); S.Push(19); S.Push(31); S.Push(3); S.Push(7); S.Push(11); S.Push(5); S.Push(57); S.Push(13); S.Push(5);
-        ApagaNumInStack(num,S);
-        ApagaNumInStack(num2,S);
+        ApagaNumInStack(num,ref S);
+        ApagaNumInStack(num2,ref S);
         Console.Write("Stack: ");
-        for (int i = 0; i < 11; i++)
+        foreach (var item in S)
         {
-            Console.Write(S.Pop() + " ");   
+            Console.Write(item + " ");
         }
         Console.WriteLine();
 
@@ -184,7 +184,7 @@ class Program{
     public static void LimpaPilha(Stack S){
         S.Clear();
     }
-    public static void ApagaNumInStack(int num, Stack S){
+    public static void ApagaNumInStack(int num, ref Stack S){
         Stack temp = new Stack();
         foreach (var item in S)
         {
@@ -196,7 +196,7 @@ class Program{
         S = temp;
     }
     // 14 – Crie uma função para inverter os dados da coleção recebida como parâmetro. Obs1: use qualquer outra estrutura que julgar necessária. Obs2: não utilize o método reverse da classe ArrayList.
-    public static void InvertePilha(Stack collection){
+    public static void InvertePilha(ref Stack collection){
         int[] elementos = collection.Cast<int>().ToArray();
         Array.Reverse(elementos);
         foreach (int numero in elementos) {
@@ -204,7 +204,7 @@ class Program{
         }
     }
     // 15 – Crie uma função que receba a coleção como parâmetro e retorne a soma de seus elementos. Obs: considere que todos seus dados são do tipo int.
-    public static int SomaElementos(Stack collection){
+    public static int SomaElementos(ref Stack collection){
         int soma = 0;
         foreach(int num in collection){
             soma += num;
@@ -212,7 +212,7 @@ class Program{
         return soma;
     }
     // 16 – Crie uma função que calcule o número de elementos positivos de uma coleção passada como parâmetro.
-    public static int CalculaPositivos(Stack collection){
+    public static int CalculaPositivos(ref Stack collection){
         int positivos = 0;
         foreach(int numero in collection){
             Console.WriteLine(numero);
@@ -223,7 +223,7 @@ class Program{
         return positivos;
     }
     // 17 – Crie uma função que calcule o número de ocorrências em uma coleção de um elemento passado como parâmetro.
-    public static int ContaOcorrencias(Stack collection, int busca){
+    public static int ContaOcorrencias(ref Stack collection, int busca){
         int ocorrências = 0;
         foreach(int num in collection){
             if((int)collection.Pop() == busca){
