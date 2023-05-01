@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\bin\Debug\net6.0\TP2Q07.exe
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\bin\Debug\net6.0\TP2Q07.deps.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\bin\Debug\net6.0\TP2Q07.runtimeconfig.json
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\bin\Debug\net6.0\TP2Q07.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\bin\Debug\net6.0\TP2Q07.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\refint\TP2Q07.dll
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.pdb
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\TP2Q07.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Faculdade\AEDs\TP-02\TP2Q07\obj\Debug\net6.0\ref\TP2Q07.dll
