@@ -14,12 +14,15 @@ class Program{
             entrada = Console.ReadLine();
         }
         int entrada2 = int.Parse(Console.ReadLine());
+        int rem = 1;
         for(int i = 0; i < entrada2; i++){ 
             string entrada3 = Console.ReadLine();
             string[] split = entrada3.Split(' ');
             if(split[0] == "R"){
-                fila.Dequeue();
-                cont--;
+                if(rem < 2){
+                    fila.Dequeue();
+                }
+                rem++;
 
             }
             else if(split[0] == "I"){
