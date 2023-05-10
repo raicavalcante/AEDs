@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\bin\Debug\net6.0\Q03.exe
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\bin\Debug\net6.0\Q03.deps.json
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\bin\Debug\net6.0\Q03.runtimeconfig.json
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\bin\Debug\net6.0\Q03.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\bin\Debug\net6.0\Q03.pdb
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\refint\Q03.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.pdb
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\Q03.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q03\obj\Debug\net6.0\ref\Q03.dll

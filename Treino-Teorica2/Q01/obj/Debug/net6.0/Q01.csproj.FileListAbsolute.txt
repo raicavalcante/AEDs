@@ -1,0 +1,15 @@
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\bin\Debug\net6.0\Q01.exe
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\bin\Debug\net6.0\Q01.deps.json
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\bin\Debug\net6.0\Q01.runtimeconfig.json
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\bin\Debug\net6.0\Q01.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\bin\Debug\net6.0\Q01.pdb
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.csproj.AssemblyReference.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.AssemblyInfoInputs.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.AssemblyInfo.cs
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.csproj.CoreCompileInputs.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\refint\Q01.dll
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.pdb
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\Q01.genruntimeconfig.cache
+C:\Users\MARCE\Desktop\Treino-Teorica2\Q01\obj\Debug\net6.0\ref\Q01.dll
