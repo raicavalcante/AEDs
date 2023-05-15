@@ -1,0 +1,15 @@
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\bin\Debug\net6.0\Figurinhas da copa.exe
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\bin\Debug\net6.0\Figurinhas da copa.deps.json
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\bin\Debug\net6.0\Figurinhas da copa.runtimeconfig.json
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\bin\Debug\net6.0\Figurinhas da copa.dll
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\bin\Debug\net6.0\Figurinhas da copa.pdb
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.csproj.AssemblyReference.cache
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.AssemblyInfoInputs.cache
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.AssemblyInfo.cs
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.csproj.CoreCompileInputs.cache
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.dll
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\refint\Figurinhas da copa.dll
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.pdb
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\Figurinhas da copa.genruntimeconfig.cache
+C:\Users\1402627\Desktop\Prova2\Prova2\Figurinhas da copa\obj\Debug\net6.0\ref\Figurinhas da copa.dll
