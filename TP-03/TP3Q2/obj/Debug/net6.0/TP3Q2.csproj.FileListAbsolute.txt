@@ -1,0 +1,15 @@
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\bin\Debug\net6.0\TP3Q2.exe
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\bin\Debug\net6.0\TP3Q2.deps.json
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\bin\Debug\net6.0\TP3Q2.runtimeconfig.json
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\bin\Debug\net6.0\TP3Q2.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\bin\Debug\net6.0\TP3Q2.pdb
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.csproj.AssemblyReference.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.AssemblyInfoInputs.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.AssemblyInfo.cs
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.csproj.CoreCompileInputs.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\refint\TP3Q2.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.pdb
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\TP3Q2.genruntimeconfig.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\TP-03\TP3Q2\obj\Debug\net6.0\ref\TP3Q2.dll
