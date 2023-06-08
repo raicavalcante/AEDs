@@ -1,0 +1,15 @@
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\bin\Debug\net6.0\AmigosAlunos.exe
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\bin\Debug\net6.0\AmigosAlunos.deps.json
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\bin\Debug\net6.0\AmigosAlunos.runtimeconfig.json
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\bin\Debug\net6.0\AmigosAlunos.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\bin\Debug\net6.0\AmigosAlunos.pdb
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.csproj.AssemblyReference.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.AssemblyInfoInputs.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.AssemblyInfo.cs
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.csproj.CoreCompileInputs.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\refint\AmigosAlunos.dll
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.pdb
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\AmigosAlunos.genruntimeconfig.cache
+C:\Users\RaI Átila\Desktop\Faculdade\AEDs\AmigosAlunos\obj\Debug\net6.0\ref\AmigosAlunos.dll
